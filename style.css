@@ -1,0 +1,13 @@
+.container-fluid{
+    max-width: 800px;
+    text-align: center;
+  }
+  h4{
+    margin-top:20px;
+  }
+  #by{
+    margin-top: 10px;
+  }
+  #spin{
+    margin: 10px;
+  }
